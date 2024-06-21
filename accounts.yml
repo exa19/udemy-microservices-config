@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related local APIs - test bus refresh"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}db5f4cc3114b5a5e4db10b33ad060284c25975dc018ec734e451129172bb0af5843f8d629fdc0343436343c176ce97a6"
